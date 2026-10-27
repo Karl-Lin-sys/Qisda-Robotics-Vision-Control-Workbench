@@ -1,0 +1,6 @@
+{
+  "name": "Qisda Robotics Vision & Control Workbench",
+  "description": "Peer-reviewed robotics architecture selector, official PyTorch/TensorFlow/OpenCV reference implementations with Big-O verification, NIST CSF 2.0 security matrix, Canadian English toddler explainer, and Taiwan legal compliance GitHub packager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
